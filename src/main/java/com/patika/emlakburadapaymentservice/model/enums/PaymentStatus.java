@@ -1,4 +1,4 @@
-package com.patika.emlakburadapaymentservice.producer.dto.enums;
+package com.patika.emlakburadapaymentservice.model.enums;
 
 public enum PaymentStatus {
     SUCCESSFUL,
