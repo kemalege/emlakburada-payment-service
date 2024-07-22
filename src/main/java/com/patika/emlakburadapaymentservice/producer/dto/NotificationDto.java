@@ -1,6 +1,5 @@
 package com.patika.emlakburadapaymentservice.producer.dto;
 
-import com.patika.emlakburadapaymentservice.producer.dto.enums.PaymentStatus;
 import com.patika.emlakburadapaymentservice.producer.dto.enums.NotificationType;
 import lombok.*;
 
