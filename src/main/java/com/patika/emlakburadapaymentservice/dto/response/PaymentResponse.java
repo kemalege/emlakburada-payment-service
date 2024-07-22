@@ -1,6 +1,6 @@
 package com.patika.emlakburadapaymentservice.dto.response;
 
-import com.patika.emlakburadapaymentservice.producer.dto.enums.PaymentStatus;
+import com.patika.emlakburadapaymentservice.model.enums.PaymentStatus;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
